@@ -1,0 +1,5 @@
+|RISC_processor
+clk => ~NO_FANOUT~
+rst => ~NO_FANOUT~
+
+
